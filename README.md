@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I’m Alex Taiwo, a college student passionate about building apps and websites. I work with Flutter, Dart, HTML, CSS, SCSS,SASS, Bootstrap, and minimal JavaScript. I also enjoy creating AI prompts and integrating APIs. Always learning and creating!
+👋 Hi! I’m Alex Taiwo, a college student passionate about building apps and websites. I work with Flutter, Dart, HTML, CSS, SCSS, Bootstrap, and minimal JavaScript. I also enjoy creating AI prompts and integrating APIs. Always learning and creating!
 
 
 ## 🌐 Socials:
@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=dimensions22222&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![]([https://github-contributor-stats.vercel.app/api?username=dimensions22222&limit=5&theme=dark&combine_all_yearly_contributions=true](https://github.com/dimensions22222/next))
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dimensions22222&icon=6&color=0)](https://visitcount.itsvg.in)
