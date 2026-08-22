@@ -1,55 +1,6 @@
 ````markdown
 # 👋 OLU-OMODARA TAIWO AYOMIDE
 
-```text     IIIIIIHIHHH
-                                                                 IIIIIHHHFFFFFFFFF
-                                                               HIIIHFFFFDDDDDDDDDFFFI
-                                                              IIIHHFFFFDFDDDDDDDDDDFFF
-                                                             IIIIHHHFFFFFFDDDDDDDDDDDFF
-                                                             IIIHVTQOOMMKKKKKIFDDDDDDDFF
-                                                             KKKVVTRQQOMMMKKKKIIHFDDDDFF
-                                                             KMTVVTQOOOMMMKKKKKIIHFDDDDD
-                                                             ITVVTRQOOOOMMMKKKKIIIFFFDFF
-                                                             KTQOKIIIKMKIIHHHHHIKKIHFFF
-                                                          KHMOQQOOMKKMMKIHIKKIIIIKKFFF
-                                                           HQTTQOMMMIKKIKKKKKKIIIIIOF
-                                                           HTTTRQQQQKMKIMMMMKKKKKIIHHI
-                                                            MTTTRRTQQQOMMMOOMMMMKIIHHHI
-                                                            RRTTROOMOOMKIIIOMMMIIIIIHH
-                                                            RRTTTRQMKIIIHKKKKKIIIIIII
-                                                            QRRQOOKOMMKIIIKKKIIIIIII
-                                                             QQOORQQOOIIIHIIIIIIIII
-                                                              QOMMKIIMKKIHHHHHHHIKI
-                                                              KOMMMKKIIHHHHHHHHIIDFI
-                                                         OKKMIKMIIHHIIHFHFFFHHHFFFFFH
-                                                     MMMMKKQIIMFDQOKHFFFFHHHHHDFFFFFFF
-                                                   MMMMMKIIHKKHFDOOMKKKKKKIHDFFFFFFFFFF
-                                                  MMMMMKKHHIKIIFDOOMMMMMKKHFFFFFFFFDDFFFF
-                                                KKKKMMKIIIHHKKFFFOOMMMMMKIHFFFFFFDDDFFFFFHFH
-                                                KIKKMKIRIHHIKFFFKOOMOQOMHHFFFFFFDDDFFFFFOQOOMF
-                                                KIKMOORRMIHIIFFKOQOORQKHFFFFFFFDDDFFQQQQQQQFFFFHH
-                                               MMKKKQTTRMKIIIFHMQQKFFFDDDFFFFFFDDFFFRQQFFFFFFFHHHH
-                                               MMMKQTTTMKMKIHFHMKFFFFDDDDDDFFFDDFFFFQHHFFFFFFFFFFF
-                                              MMMMKQRTMKKKKIHFKFHFFFFFFFFFFFFFFFFFFOHHHHFFFFFFFFFF
-                                              MMMMKMRMMKKKKIHFHHFFHHHHHHHHHHFFHFFFFHIHHHHHHHHHHFFH
-                                             IKKMKKMMMKKKKIIIHFHHHHHHHHHHHHHHHHHFHHHIHHHHHHHHHFHHH
-                                             IKKKKMQMKKKKKKIIIHHHHHHHHHIIHHHHHMOOHHHIHHHHHHHFHHHHH
-                                           MMKKKKIIVKKKKKKIIIIHHHHHIIIIIIIIIOOQQQHHIIHHHHIHFHHHHHH
-                                          MMKKKIIIIMKKKKKKIIIIIIIIIIIIIIIIQQQRQQQHHIIHHHHHHHHHHHHH
-                                         MMKKKKIIIVTKKKKKKIIIIIOIIIIIIIIIKQQRQOOOHHHIIHHHHHHHIIIHH
-                                         QQOMKIIIITKKKKKKIIIIKIIIIIIIIIIIIQQOQOOHHHHIHHHHHFFHHIIIH
-                                        OQQOOMKIIIMKKMKKKIKIIIIIIIIIIIKIIIOOOOMHHHHHKHHHHHFHHIIIHH
-                                        QQQOOKKIIIKKKKKKKKKKIKKIMIIIIKKIIOOXOIMHHHKHHHHHHHHHHHHIII
-                                        QQQOMKKIIQOKMKKKKKKKKKKKKKKKMRROVXVVXXIIIHHHHHHHHHFFIIIIIH
-                                        QQQOMKKIIQOMMKKKKKKKKKKKQQQRRXXTVVVVVXXKIHHHHHHHHHHHHFIIIF
-                                       OQQOOMKKIIOQMMKKKKKMMMMRRRXXXXXXTTTTTTTXTIIHHHHHHFFFDFHHFII
-                                       QQQOMKKKIIOQMMMMMMMRRRRXXXXVXXXVTRQQQRRTXTIIHHHHFFFFDFHHIIH
-                                       QQOOMKKKKIMMMMMTRQRXVXXVVXXVXXXVTOOQQQRTTXTIHHHFFFFFFDHHFFI
-                                       QQOMMKKKKKQQQQRRQVVXXXXXXXXXXXXXTQOQQRRTTXTIIHHFFFFFFFFFIII
-                                       OOMMMKKKKOQOOQRQTXXVVVXXXVXXXXVXTOOOQRRTTVTTHHFFFFFFFFFFIIH
-                                      MKMMKMKKOOOOQQQQTVXVVVVVVVVVVVVVVVTMOQRRTTVXTHHFFFFFFFFFHIHF
-                                      MXVOQQQQOOOOORQTVVXVVVVVVVVVVVVVVVVTMOQRTTXRRHHHFFFFFFFF HFF
-
 ````
 
 <p align="center">
