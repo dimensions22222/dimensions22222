@@ -1,7 +1,7 @@
 # OLU-OMODARA TAIWO AYOMIDE
 
 <p align="center">
-  <img src="assets/a-cross.svg" width="112" alt="Silver Gothic cross with an A monogram" />
+  <img src="a-cross.svg" width="112" alt="Silver Gothic cross with an A monogram" />
 </p>
 
 <p align="center">
