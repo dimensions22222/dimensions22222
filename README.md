@@ -1,165 +1,112 @@
-````markdown
-# 👋 OLU-OMODARA TAIWO AYOMIDE
+# OLU-OMODARA TAIWO AYOMIDE
 
-````
-
-<p align="center">
-
-### 💻 Frontend & Mobile Application Developer
-
-**Computer Science Undergraduate • Flutter • Web • APIs**
-
-</p>
-
----
-
-## 🧑🏽‍💻 About Me
-
-I'm a **Computer Science undergraduate and developer** focused on building responsive web interfaces and cross-platform mobile applications.
-
-I work primarily with **Flutter, Dart, HTML, CSS, JavaScript, Bootstrap, Node.js and REST APIs**, with experience in Git/GitHub, responsive design, UI/UX, debugging and testing.
-
-I enjoy turning ideas into functional digital products — especially applications with clean interfaces, useful functionality and solid backend integration.
-
-> **Build it. Break it. Understand it. Improve it.**
-
----
-
-## ⚡ Tech Stack
-
-### 🌐 Frontend
-
-HTML5 • CSS3 • JavaScript • Bootstrap • Sass
-
-### 📱 Mobile
-
-Flutter • Dart
-
-### ⚙️ Backend & APIs
-
-Node.js • REST API Integration
-
-### 🛠️ Tools
-
-Git • GitHub • Sketch
-
----
-
-## 💼 Experience
-
-### 🏢 Frontend Web Developer Intern — MEMMCOL
-
-**R&D Software Department**
-
-* Developed responsive web interfaces using HTML, CSS, JavaScript and Bootstrap.
-* Worked on smart metering and energy management interfaces.
-* Integrated frontend interfaces with backend APIs.
-* Assisted with debugging, testing and optimization.
-* Contributed to dashboard UI/UX improvements.
-* Used GitHub for version control and collaboration.
-
-### 🏢 Frontend & Mobile Developer Intern — EPAIL Nigeria
-
-**Software Department**
-
-* Developed cross-platform applications using Flutter.
-* Built responsive and user-friendly mobile interfaces.
-* Integrated Node.js backend services and APIs.
-* Participated in debugging, testing and performance optimization.
-* Worked with GitHub for collaborative development.
-
----
-
-## 🚀 Featured Work
-
-### ⚡ Smart Metering Dashboard
-
-Responsive dashboard interfaces for energy management and smart metering operations.
-
-### 📱 Flutter Mobile Applications
-
-Cross-platform Android/iOS applications with reusable UI components and backend API integration.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dimensions22222&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimensions22222&theme=tokyonight&hide_border=true&layout=compact">
-
-</p>
-
-<p align="center">
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=dimensions22222&theme=tokyonight&hide_border=true">
-
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dimensions22222&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7">
-
-</p>
-
----
-
-## 🌱 Currently Building & Learning
+<table>
+<tr>
+<td width="110" valign="top">
 
 ```text
-Flutter              ███████████████████░░
-Frontend Development ███████████████████░░
-API Integration      █████████████████░░░░
-Node.js              ███████████████░░░░░░
-UI/UX                ████████████████░░░░░
-AI-assisted Dev      █████████████████░░░░
+       ▄██▄
+       ████
+  ▄██████████▄
+  ████ A ████
+  ▀██████████▀
+       ████
+       ████
+       ████
+      ▄████▄
+      ▀████▀
 ```
 
+</td>
+<td valign="middle">
+
+### OLU-OMODARA TAIWO AYOMIDE
+
+**Frontend & Mobile Application Developer**
+
+I'm a Computer Science undergraduate focused on building useful software, responsive interfaces and cross-platform applications.
+
+I work with Flutter, Dart, JavaScript and modern web technologies. I enjoy building things that developers and everyday users actually find useful.
+
+*Build it. Break it. Understand it. Improve it.*
+
+</td>
+</tr>
+</table>
+
+[Email](mailto:oluomodarataiwo@gmail.com) · [LinkedIn](https://www.linkedin.com/in/taiwo-olu-omodara-289979409) · [GitHub](https://github.com/dimensions22222)
+
 ---
 
-## 🎯 Career Focus
+## What I'm Building
 
-I'm interested in opportunities involving:
+**Flutter Applications** · Cross-platform mobile applications with reusable components, clean interfaces and API integration.
 
-**Frontend Development • Flutter Development • Mobile Applications • Software Engineering • UI-focused Product Development**
+**Web Applications** · Responsive websites and interactive interfaces using modern frontend technologies.
 
-My goal is simple:
+**Smart Metering Interfaces** · Dashboard interfaces and energy management solutions.
 
-> **Build useful software that people actually enjoy using.**
+## Experience
 
----
+**Frontend Web Developer Intern — MEMMCOL**
 
-## 🤝 Connect With Me
+*R&D Software Department*
+
+- Developed responsive web interfaces using HTML, CSS, JavaScript and Bootstrap.
+- Worked on smart metering and energy management interfaces.
+- Integrated frontend interfaces with backend APIs.
+- Assisted with debugging, testing and optimization.
+- Contributed to dashboard UI/UX improvements.
+
+**Frontend & Mobile Developer Intern — EPAIL Nigeria**
+
+*Software Department*
+
+- Developed cross-platform applications using Flutter.
+- Built responsive and user-friendly mobile interfaces.
+- Integrated Node.js backend services and APIs.
+- Participated in debugging, testing and performance optimization.
+- Used GitHub for collaborative development.
+
+## Technology
+
+**Frontend:** HTML5 · CSS3 · JavaScript · Bootstrap · Sass
+
+**Mobile:** Flutter · Dart
+
+**Backend & APIs:** Node.js · REST API Integration
+
+**Tools:** Git · GitHub · Sketch
+
+## GitHub Activity
 
 <p align="center">
-
-<a href="mailto:oluomodarataiwo@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/taiwo-olu-omodara-289979409">
-<img src="https://img.shields.io/badge/LinkedIn-Taiwo%20Ayomide-0A66C2?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://github.com/dimensions22222">
-<img src="https://img.shields.io/badge/GitHub-dimensions22222-181717?style=for-the-badge&logo=github">
-</a>
-
+<img src="https://github-readme-stats.vercel.app/api?username=dimensions22222&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimensions22222&theme=tokyonight&hide_border=true&layout=compact" width="49%">
 </p>
+
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=dimensions22222&theme=tokyonight&hide_border=true">
+</p>
+
+## Currently Exploring
+
+- Advanced Flutter development
+- Frontend architecture
+- API integration and backend development
+- UI/UX engineering
+- AI-assisted software development
+
+## Connect
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oluomodarataiwo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiwo-olu-omodara-289979409)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dimensions22222)
 
 ---
 
 <p align="center">
-
-### 💻 Code • Create • Innovate
-
-<img src="https://komarev.com/ghpvc/?username=dimensions22222&label=Profile%20Views&style=flat">
-
+<sub>CODE · CREATE · INNOVATE</sub>
+<br>
+<img src="https://komarev.com/ghpvc/?username=dimensions22222&label=Profile%20Views&style=flat-square">
 </p>
-```
