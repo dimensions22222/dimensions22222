@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="280" viewBox="0 0 240 280" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
+  <title id="title">A monogram Gothic cross</title>
+  <desc id="desc">A symmetrical silver pixel-art Gothic cross with a capital A at its center on a transparent background.</desc>
+  <defs>
+    <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f2f5f8"/>
+      <stop offset="0.48" stop-color="#aeb8c4"/>
+      <stop offset="1" stop-color="#667383"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#a8d8ff"/>
+      <stop offset="1" stop-color="#5b91c8"/>
+    </linearGradient>
+  </defs>
+  <!-- upper crown -->
+  <path fill="url(#silver)" d="M112 8h16v12h8v12h-8v12h-8v12h-8V44h-8V32h-8V20h16z"/>
+  <path fill="url(#silver)" d="M104 52h32v12h-8v12h-16V64h-8z"/>
+  <!-- cross arms, stepped like carved stone -->
+  <path fill="url(#silver)" d="M96 76h48v12h20v12h20v12h-20v12h-20v12h-48v-12H76v-12H56v-12h20V88h20z"/>
+  <path fill="#657486" d="M96 76h48v5H96zM56 112h20v5H56zM164 112h20v5h-20z" opacity=".7"/>
+  <!-- vertical shaft -->
+  <path fill="url(#silver)" d="M104 124h32v20h12v20h-12v20h-32v-20H92v-20h12z"/>
+  <path fill="url(#silver)" d="M100 184h40v16h-8v16h-8v16h-16v-16h-8v-16h-8z"/>
+  <!-- lower ornamental point -->
+  <path fill="url(#silver)" d="M108 232h24v12h12v12h-12v12h-24v-12H96v-12h12z"/>
+  <path fill="#657486" d="M108 268h24l-12 10z"/>
+  <!-- central inset -->
+  <path fill="#101820" d="M88 88h64v48H88z"/>
+  <path fill="url(#blue)" d="M116 94h8v8h8v8h8v8h-8v8h-24v-8h-8v-8h8v-8h8z"/>
+  <!-- unmistakable capital A -->
+  <path fill="#f5f7fa" d="M108 126 118 98h8l10 28h-8l-2-7h-8l-2 7z"/>
+  <path fill="#9fcdf4" d="M116 114h12v5h-12z"/>
+  <!-- small side studs -->
+  <path fill="#e2e8ef" d="M72 100h8v8h-8zM160 100h8v8h-8zM112 156h8v8h-8zM120 156h8v8h-8z"/>
+  <!-- fine engraved edge accents -->
+  <path fill="#dce4ec" d="M100 80h8v4h-8zM132 80h8v4h-8zM100 188h8v4h-8zM132 188h8v4h-8z" opacity=".8"/>
+</svg>

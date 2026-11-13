@@ -1,54 +1,43 @@
 # OLU-OMODARA TAIWO AYOMIDE
 
-<table>
-<tr>
-<td width="110" valign="top">
+<p align="center">
+  <img src="assets/a-cross.svg" width="112" alt="Silver Gothic cross with an A monogram" />
+</p>
 
-```text
-       ▄██▄
-       ████
-  ▄██████████▄
-  ████ A ████
-  ▀██████████▀
-       ████
-       ████
-       ████
-      ▄████▄
-      ▀████▀
-```
+<p align="center">
+  <strong>Frontend &amp; Mobile Application Developer</strong><br />
+  Computer Science Undergraduate · Flutter · Web · APIs
+</p>
 
-</td>
-<td valign="middle">
-
-### OLU-OMODARA TAIWO AYOMIDE
-
-**Frontend & Mobile Application Developer**
-
-I'm a Computer Science undergraduate focused on building useful software, responsive interfaces and cross-platform applications.
-
-I work with Flutter, Dart, JavaScript and modern web technologies. I enjoy building things that developers and everyday users actually find useful.
-
-*Build it. Break it. Understand it. Improve it.*
-
-</td>
-</tr>
-</table>
-
-[Email](mailto:oluomodarataiwo@gmail.com) · [LinkedIn](https://www.linkedin.com/in/taiwo-olu-omodara-289979409) · [GitHub](https://github.com/dimensions22222)
+<p align="center">
+  <a href="mailto:oluomodarataiwo@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/taiwo-olu-omodara-289979409">LinkedIn</a> ·
+  <a href="https://github.com/dimensions22222">GitHub</a>
+</p>
 
 ---
 
+## About
+
+I'm a Computer Science undergraduate and developer focused on building responsive web interfaces and cross-platform mobile applications.
+
+I work with **Flutter, Dart, HTML, CSS, JavaScript, Bootstrap, Node.js and REST APIs**, with experience in Git/GitHub, responsive design, UI/UX, debugging and testing.
+
+I enjoy turning ideas into functional digital products — especially applications with clean interfaces, useful functionality and solid backend integration.
+
+> Build it. Break it. Understand it. Improve it.
+
 ## What I'm Building
 
-**Flutter Applications** · Cross-platform mobile applications with reusable components, clean interfaces and API integration.
+**Flutter Applications** — Cross-platform mobile applications with reusable components, clean interfaces and API integration.
 
-**Web Applications** · Responsive websites and interactive interfaces using modern frontend technologies.
+**Web Applications** — Responsive websites and interactive interfaces using modern frontend technologies.
 
-**Smart Metering Interfaces** · Dashboard interfaces and energy management solutions.
+**Smart Metering Interfaces** — Dashboard interfaces and energy-management solutions.
 
 ## Experience
 
-**Frontend Web Developer Intern — MEMMCOL**
+### Frontend Web Developer Intern — MEMMCOL
 
 *R&D Software Department*
 
@@ -58,7 +47,7 @@ I work with Flutter, Dart, JavaScript and modern web technologies. I enjoy build
 - Assisted with debugging, testing and optimization.
 - Contributed to dashboard UI/UX improvements.
 
-**Frontend & Mobile Developer Intern — EPAIL Nigeria**
+### Frontend & Mobile Developer Intern — EPAIL Nigeria
 
 *Software Department*
 
@@ -70,23 +59,22 @@ I work with Flutter, Dart, JavaScript and modern web technologies. I enjoy build
 
 ## Technology
 
-**Frontend:** HTML5 · CSS3 · JavaScript · Bootstrap · Sass
-
-**Mobile:** Flutter · Dart
-
-**Backend & APIs:** Node.js · REST API Integration
-
-**Tools:** Git · GitHub · Sketch
+| Area | Technologies |
+|---|---|
+| Frontend | HTML5 · CSS3 · JavaScript · Bootstrap · Sass |
+| Mobile | Flutter · Dart |
+| Backend & APIs | Node.js · REST API Integration |
+| Tools | Git · GitHub · Sketch |
 
 ## GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dimensions22222&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimensions22222&theme=tokyonight&hide_border=true&layout=compact" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=dimensions22222&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" height="155" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimensions22222&amp;theme=tokyonight&amp;hide_border=true&amp;layout=compact" height="155" alt="Top languages" />
 </p>
 
 <p align="center">
-<img src="https://nirzak-streak-stats.vercel.app/?user=dimensions22222&theme=tokyonight&hide_border=true">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dimensions22222&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ## Currently Exploring
@@ -99,14 +87,13 @@ I work with Flutter, Dart, JavaScript and modern web technologies. I enjoy build
 
 ## Connect
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oluomodarataiwo@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiwo-olu-omodara-289979409)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dimensions22222)
-
----
+<p align="center">
+  <a href="mailto:oluomodarataiwo@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/taiwo-olu-omodara-289979409"><img src="https://img.shields.io/badge/LinkedIn-Taiwo%20Ayomide-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/dimensions22222"><img src="https://img.shields.io/badge/GitHub-dimensions22222-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+</p>
 
 <p align="center">
-<sub>CODE · CREATE · INNOVATE</sub>
-<br>
-<img src="https://komarev.com/ghpvc/?username=dimensions22222&label=Profile%20Views&style=flat-square">
+  <sub>CODE · CREATE · INNOVATE</sub><br />
+  <img src="https://komarev.com/ghpvc/?username=dimensions22222&amp;label=Profile%20Views&amp;style=flat-square" alt="Profile views" />
 </p>
